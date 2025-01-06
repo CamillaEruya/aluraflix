@@ -3,7 +3,7 @@
 ## Descrição
 
 Este projeto é uma atividade do curso Oracle e Alura. Consiste em aplicar os conhecimentos aprendidos durante o curso .
-Criar um Aluraflix onde criamos cards com novos videos e editamos os mesmo, foi uma experiencia bem interessante que exigiu bastante e deu tudo certo.
+Criar um Aluraflix onde criamos cards com novos videos e editamos os mesmo,usando React  foi uma experiencia bem interessante que exigiu bastante e deu tudo certo.
 
 
 
