@@ -16,7 +16,7 @@ Criar um Aluraflix onde criamos cards com novos videos e editamos os mesmo, foi 
 
 ## Imagens Projeto
 
-https://github.com/CamillaEruya/aluraflixk/tree/main/img
+[https://github.com/CamillaEruya/aluraflixk/tree/main/img](https://github.com/CamillaEruya/aluraflix/tree/main/public/imagens)
 
 
 <img src="./img/print1.png">
