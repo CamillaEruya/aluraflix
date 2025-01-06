@@ -1,4 +1,4 @@
-# Challenge AluraGeek
+# Challenge Aluraflix
 
 ## Descrição
 
