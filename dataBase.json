@@ -1,0 +1,74 @@
+{
+  "categoria": [
+    {
+      "id": 1,
+      "id_categoria": "1",
+      "imagem": "imagens/front2.png",
+      "url": "https://www.youtube.com/watch?v=2RWsLmu8yVcs",
+      "titulo": "aaaaa",
+      "descricao": "Video sobre React2"
+    },
+    {
+      "id": 3,
+      "titulo": "Imersão React",
+      "id_categoria": "2",
+      "imagem": "imagens/back2.png",
+      "url": "https://www.youtube.com/watch?v=2RWsLmu8yVcs",
+      "descricao": "Video sobre React"
+    },
+    {
+      "id": 4,
+      "titulo": "Imersão React",
+      "id_categoria": "2",
+      "imagem": "imagens/back3.png",
+      "url": "https://www.youtube.com/watch?v=2RWsLmu8yVcs",
+      "descricao": "Video sobre React"
+    },
+    {
+      "id": 5,
+      "titulo": "Imersão React",
+      "id_categoria": "3",
+      "imagem": "imagens/image 7.png",
+      "url": "https://www.youtube.com/watch?v=2RWsLmu8yVcs",
+      "descricao": "Video sobre React"
+    },
+    {
+      "id": 6,
+      "id_categoria": "3",
+      "imagem": "imagens/image.png",
+      "url": "https://www.youtube.com/watch?v=2RWsLmu8yVcs",
+      "titulo": "Imersão React",
+      "descricao": "Video sobre React"
+    },
+    {
+      "imagem": "ewrtewrt",
+      "url": "ewrtwer",
+      "titulo": "rertewrt",
+      "descricao": "tewrtwert",
+      "id": 7
+    },
+    {
+      "imagem": "23423423",
+      "url": "42342134",
+      "titulo": "23421342134",
+      "descricao": "2342134234",
+      "id": 8
+    },
+    {
+      "id_categoria": "2",
+      "imagem": "imagens/front2.png",
+      "url": "adfasdfasdf",
+      "titulo": "ewerwerwe",
+      "descricao": "sdfasdfasdf ",
+      "id": 9
+    },
+    {
+      "id_categoria": "",
+      "imagem": "asfasd",
+      "url": "fsadfsad",
+      "titulo": "dsadfsadf",
+      "descricao": "fsadfasdf",
+      "id": 10
+    }
+  ]
+}

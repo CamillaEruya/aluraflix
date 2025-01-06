@@ -1,0 +1,51 @@
+.banner {
+    width: 100%;
+    background-image: url('./imagens/card.png');
+    background-size: 120% 120%;
+    background-position: -40px -40px;
+}
+
+.banner .mascara {
+    width: 100%;
+    height: 100%;
+    background-color: #00000080;
+    padding: 20px;
+}
+
+.banner .titulo {
+    background-color: rgb(95, 159, 242);
+    color: #FFFFFF;
+    font-size: large;
+    font-weight: bold;
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: 20px;
+    text-transform: uppercase;
+    width: 130px;
+    text-align: center;
+}
+
+.banner .subtitulo {
+    font-size: xx-large;
+    font-weight: lighter;
+    padding: 20px;
+}
+
+.banner .texto {
+    padding: 0px 20px;
+}
+
+.banner .quadro{
+    display: inline-block;
+    width: 50%;
+}
+
+@media (max-width: 768px) {
+    .banner .quadro{
+        width: 90%;
+    }
+
+    .banner .quadro img{
+        width: 100%;
+    }
+}

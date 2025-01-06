@@ -1,0 +1,84 @@
+.criarVideo{
+    position: absolute;
+    width: 500px;
+    left: calc(50% - 250px);
+    margin: auto;
+}
+
+.formCriarVideo {
+    width: 100%;
+    padding: 5px;
+}
+
+.formCriarVideo input, .formCriarVideo textarea{
+    width: calc(100% - 25px);
+}
+
+.formCriarVideo select {
+    width: 100%;
+}
+
+.formCriarVideo input, .formCriarVideo select, .formCriarVideo textarea{
+    padding: 10px;
+    background-color: transparent;
+    border: solid 1px #FFFFFF;
+    border-radius: 10px;
+    color: #FFFFFF;
+}
+
+.formCriarVideo select option{
+    color: #000000;
+}
+
+.formButtons {
+  text-align: right;
+}
+
+.formButtons button{
+  margin-left: 10px;
+}
+
+
+@media (max-width: 768px) {
+    .criarVideo {
+        position: unset;
+        width: 400px;
+    }
+
+    .mascara {
+      flex-direction: column; /* Alinhar verticalmente */
+    }
+  
+    .quadro {
+      flex: 1 1 100%; /* Cada quadro ocupa 100% do espaço */
+    }
+  
+    .titulo {
+      font-size: 20px;
+    }
+  
+    .subtitulo {
+      font-size: 16px;
+    }
+  
+    .texto {
+      font-size: 14px;
+    }
+  
+    .criarVideo {
+      padding: 15px;
+    }
+  
+    .formButtons {
+      flex-direction: column;
+    }
+  
+    .formButtons button {
+      margin-bottom: 10px;
+    }
+  
+    .btnLimpar {
+      margin-bottom: 0;
+    }
+    
+  }

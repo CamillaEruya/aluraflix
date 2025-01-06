@@ -1,0 +1,20 @@
+.formEditarVideo {
+    width: 500px;
+    padding: 5px;
+}
+
+.formEditarVideo input, .formEditarVideo textarea{
+    width: calc(100% - 25px);
+    
+}
+
+.formEditarVideo select {
+    width: 100%;
+}
+
+.formEditarVideo input, .formEditarVideo select, .formEditarVideo textarea{
+    padding: 10px;
+    background-color: transparent;
+    border: solid 1px #FFFFFF;
+    border-radius: 10px;
+}

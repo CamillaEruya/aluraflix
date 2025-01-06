@@ -1,0 +1,42 @@
+
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
+
+#root{
+width: 100%;
+}
+
+.modal .btnFechar{
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+
+.btnGuardar {
+  background-color: #0056ff;
+  color: #ffffff;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btnGuardar:hover {
+  background-color: #0044cc;
+}
+
+.btnLimpar {
+  background-color: transparent;
+  color: #ffffff;
+  border: 1px solid #ffffff;
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btnLimpar:hover {
+  background-color: #ffffff;
+  color: #000000;
+}
