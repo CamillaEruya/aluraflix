@@ -19,7 +19,17 @@ Criar um Aluraflix onde criamos cards com novos videos e editamos os mesmo,usand
 [https://github.com/CamillaEruya/aluraflixk/tree/main/img](https://github.com/CamillaEruya/aluraflix/tree/main/public/imagens)
 
 
-<img src="./img/print1.png">
+https://github.com/CamillaEruya/aluraflix/tree/main/public/imagens
+https://github.com/CamillaEruya/aluraflix/blob/main/public/imagens/print2png.png
+https://github.com/CamillaEruya/aluraflix/blob/main/public/imagens/print3.png
+https://github.com/CamillaEruya/aluraflix/blob/main/public/imagens/print7.png
+https://github.com/CamillaEruya/aluraflix/blob/main/public/imagens/resp1.png
+https://github.com/CamillaEruya/aluraflix/blob/main/public/imagens/resp2.png
+https://github.com/CamillaEruya/aluraflix/blob/main/public/imagens/resp3.png
+https://github.com/CamillaEruya/aluraflix/blob/main/public/imagens/respCriar.png
+https://github.com/CamillaEruya/aluraflix/blob/main/public/imagens/respModal.png
+
+<img src="./imagem/print1.png">
 <img src="./img/print2.pg.png">
 <img src="./img/print3.png">
 <img src="./img/print4.png">
