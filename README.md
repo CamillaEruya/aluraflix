@@ -32,7 +32,7 @@ https://github.com/CamillaEruya/aluraflix/blob/main/public/imagens/respModal.png
 
 
 <img src="./public/imagens/print1.png">
-<img src="./img/print2.pg.png">
+<img src="./public/imagens/print2.pgn.png">
 <img src="./img/print3.png">
 <img src="./img/print4.png">
 <img src="./img/print5.png">
