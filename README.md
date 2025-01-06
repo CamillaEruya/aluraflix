@@ -19,23 +19,16 @@ Criar um Aluraflix onde criamos cards com novos videos e editamos os mesmo,usand
 [https://github.com/CamillaEruya/aluraflixk/tree/main/img](https://github.com/CamillaEruya/aluraflix/tree/main/public/imagens)
 
 
-https://github.com/CamillaEruya/aluraflix/tree/main/public/imagens
-https://github.com/CamillaEruya/aluraflix/blob/main/public/imagens/print2png.png
-https://github.com/CamillaEruya/aluraflix/blob/main/public/imagens/print3.png
-https://github.com/CamillaEruya/aluraflix/blob/main/public/imagens/print7.png
-https://github.com/CamillaEruya/aluraflix/blob/main/public/imagens/resp1.png
-https://github.com/CamillaEruya/aluraflix/blob/main/public/imagens/resp2.png
-https://github.com/CamillaEruya/aluraflix/blob/main/public/imagens/resp3.png
-https://github.com/CamillaEruya/aluraflix/blob/main/public/imagens/respCriar.png
-https://github.com/CamillaEruya/aluraflix/blob/main/public/imagens/respModal.png
 
 
 
 <img src="./public/imagens/print1.png">
 <img src="./public/imagens/print2png.png
-<img src="./img/print3.png">
-<img src="./img/print4.png">
-<img src="./img/print5.png">
-<img src="./img/resp1.png">
-<img src="./img/resp2.png">
-<img src="./img/resp3.png">
+<img src="./public/imagens/print3.png">
+<img src="./public/imagens/print7.png">
+<img src="./public/imagens/resp1.png">
+<img src="./public/imagens/resp2.pn">
+<img src="./public/imagens/resp3.png">
+<img src="./public/imagens/respCriar.png">
+<img src="./public/imagens/respModal.png">
+
